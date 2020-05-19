@@ -1,2 +1,2 @@
 # ms_basics
-Basics of microservices
+basics of microservices
